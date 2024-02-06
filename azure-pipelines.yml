@@ -9,6 +9,4 @@ trigger:
 pool: default
 
 steps:
-- script: |
-    make
-  displayName: 'make'
+- script: make
